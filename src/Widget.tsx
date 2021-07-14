@@ -207,7 +207,7 @@ function Widget({
       <section>
         <div className="sm:flex sm:justify-center flex-col">
           <div className="mb-2 flex justify-center">
-            <h3 className="text-xl font-bold">Buy BITC</h3>
+            <h3 className="text-xl font-bold">Buy {coinSymbol}</h3>
           </div>
           <div className="mb-2">
             <label
