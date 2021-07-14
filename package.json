@@ -1,5 +1,5 @@
 {
-  "name": "pancake-widget",
+  "name": "@ugoromi/pancakeswap-swap-widget",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
